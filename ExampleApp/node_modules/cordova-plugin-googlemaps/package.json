@@ -1,0 +1,90 @@
+{
+  "name": "cordova-plugin-googlemaps",
+  "version": "2.3.3",
+  "description": "Google Maps native SDK for Android and iOS",
+  "cordova": {
+    "id": "cordova-plugin-googlemaps",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "dependencies": {
+    "xml2js": "~0.4.19",
+    "minimist": "~1.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mapsplugin/cordova-plugin-googlemaps.git"
+  },
+  "keywords": [
+    "google",
+    "maps",
+    "geo",
+    "google maps",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "engines": [
+    {
+      "name": "cordova-android",
+      "version": ">=5.1.0"
+    },
+    {
+      "name": "cordova-ios",
+      "version": ">=4.9.0"
+    },
+    {
+      "name": "apple-xcode",
+      "version": ">=9.0.0"
+    },
+    {
+      "name": "apple-ios",
+      "version": ">=10.0.0"
+    }
+  ],
+  "author": {
+    "name": "Masashi Katsumata, Hirbod Mirjavadi"
+  },
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/mapsplugin/cordova-plugin-googlemaps/issues"
+  },
+  "homepage": "https://github.com/mapsplugin/cordova-plugin-googlemaps",
+  "gitHead": "e937c65cc090aaaedc9ebc2026b3a1fe4884077b",
+  "_id": "cordova-plugin-googlemaps@2.3.3",
+  "scripts": {},
+  "_shasum": "6c4ed4fa6a8be798130f2f5193560db6fd688310",
+  "_from": "cordova-plugin-googlemaps@latest",
+  "_npmVersion": "4.2.0",
+  "_nodeVersion": "7.10.0",
+  "_npmUser": {
+    "name": "wf9a5m75",
+    "email": "wf9a5m75@gmail.com"
+  },
+  "dist": {
+    "shasum": "6c4ed4fa6a8be798130f2f5193560db6fd688310",
+    "tarball": "https://registry.npmjs.org/cordova-plugin-googlemaps/-/cordova-plugin-googlemaps-2.3.3.tgz",
+    "fileCount": 188,
+    "unpackedSize": 4661116,
+    "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJa/RiPCRA9TVsSAnZWagAA78oP/1Xjlql8+8fS0lWs+Pzl\n3UtCSCoos4cpA4vHb+3SCTgGv6Sqkg2DHY7IlTenXpGr3f2CXYenbwuYg+At\ncPIxUtSUAhWWZB/f8TaWje3zue4YaIzEeDOfyjSjyHugKcV8qgE0TuZhL2KK\na4+Hhzf5P5ScvGPlGdXukuLdztv1QG1dlKpbCzRKpf6mfYHuSwXKmrcCemjh\nYQMx2U3CP4/iMRXsT0YaGOsmKNAr7nLtcnlDC1jN6NZfuIzz6K4CDCGbiczl\n93UITnQxwcy2i9Z1xc/DNnq+7sde11gFe7iegy8oinsbh4rHsSWJy9XE0BiQ\nSkmOLotzcOS3THk+YQgkIArIfnzN4iEhZbG0U8RNgJHix2nPd3K8/EcW/uba\nnp0c5xxg+qfiKzObLpR32l3kpND0lIS5qeFIrxNLXyGSL+UkfiN1Eu/eFox1\ni+fIXSe/pLvNO0koGDarZ1Ao0P5cCN/FvYxD/IY3I5yzsGwciEZ/2kuUThGq\nyZeR8sJOI4FTYTZmdHQzWUogIN+R7oFK7FuPdnOd9vPC0Sonu3xkCb9o1wHC\nq7UafAOJ/m+DrZMIyhNPNMY4ukEEtqN6mjMuUupAC9mj9tM1Vejkkm6F2A/6\nknfQhhQuGKiO2w+XtBIaV3IQ7+mSMZyYteQSkxDxCUb0ppf9oS0cipWg56sE\nJIFt\r\n=CrTE\r\n-----END PGP SIGNATURE-----\r\n"
+  },
+  "maintainers": [
+    {
+      "name": "nightstomp",
+      "email": "info@nightstomp.com"
+    },
+    {
+      "name": "wf9a5m75",
+      "email": "wf9a5m75@gmail.com"
+    }
+  ],
+  "directories": {},
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/cordova-plugin-googlemaps_2.3.3_1526536334654_0.481242731075173"
+  },
+  "_resolved": "https://registry.npmjs.org/cordova-plugin-googlemaps/-/cordova-plugin-googlemaps-2.3.3.tgz",
+  "readme": "ERROR: No README data found!"
+}
